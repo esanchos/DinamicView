@@ -1,0 +1,6 @@
+rootProject.name='DynamicDataMenu'
+include ':app'
+include ':core-feature-list'
+include ':feature-battery'
+include ':feature-files'
+include ':abstract-feature'
